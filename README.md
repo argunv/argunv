@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm argunv</h1>
-<h3 align="center">Sirius University College student.</h3>
+<h3 align="center">Sirius University College student. <a href="http://www.argunv.me">(website)</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argunv&label=Profile%20views&color=0e75b6&style=flat" alt="argunv" /> </p>
 
